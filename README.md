@@ -1,6 +1,6 @@
 # NutriNova
 
-NutriNova is an AI-powered application designed to help users create personalized diet plans based on their health goals, dietary preferences, and lifestyle.
+NutriNova delivers data-driven meal planning by combining user preferences with AI-powered insights. It helps individuals make informed food choices while maintaining a balanced and goal-oriented diet.
 
 ---
 
